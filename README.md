@@ -36,7 +36,7 @@
 <a href="https://linkedin.com/in/aritraiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developeraritra" height="30" width="40" /></a>
 <a href="https://fb.com/aritra.iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developer.aritra" height="30" width="40" /></a>
 <a href="https://instagram.com/aritra.iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritra.ics" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@aritraiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aritraiss" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uccgfr7ktqk_6fyxxwl6fsra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccgfr7ktqk_6fyxxwl6fsra" height="30" width="40" /></a>
 <a href="https://twitter.com/aritraiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritraics" height="30" width="40" /></a>
 
 
