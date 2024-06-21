@@ -37,6 +37,7 @@
 <a href="https://fb.com/aritra.iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developer.aritra" height="30" width="40" /></a>
 <a href="https://instagram.com/aritra.iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritra.ics" height="30" width="40" /></a>
 <a href="https://twitter.com/aritraiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritraics" height="30" width="40" /></a>
+<a href="https://dev.to/aritra-iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aritra-iss" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
