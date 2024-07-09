@@ -19,8 +19,6 @@
 
 - 🧑‍💻 Working as **Freelance Developer**
 
-- 🏢 Founder, Director & CEO @Internet Security Squad.
-
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
 - 🌐 All of my latest projects are availabe [here](https://innovatechsolution.in)
