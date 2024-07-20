@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **web development, pen testing,etc.** and I will try to answer it.
 
-- 📫 How to reach me **aritra.cso@linuxmail.org**
+- 📫 How to reach me **aritra.cybercop@kolpolice.in**
 
 - ⚡ Fact **The first computer programmer was a woman named Ada Lovelace.**
 
