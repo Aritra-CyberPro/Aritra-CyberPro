@@ -5,7 +5,7 @@
 
 <h3 align="center">Cyber expert and YouTuber by profession and a programmer by passion</h3>
 
-<h3 align="center">ISS Founder, Director & CEO | Gamer | Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 24'</h3>
+<h3 align="center">Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 24'</h3>
 <h1 align="center">
     <hr height=200></hr>
 </h1>
@@ -13,7 +13,7 @@
 
 
 
-- 🧑‍🎓Studied H.S.(Higher Secondary) at [ BIGMHS](https://barasat.igmhs.org/)
+- 🧑‍🎓Studied H.S.(Higher Secondary) at [ BIGMHS](https://barasatigmhs.org/)
 
 - 🌱 I’m currently learning **Bug Bounty with React native**
 
@@ -31,11 +31,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aritraiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developeraritra" height="30" width="40" /></a>
-<a href="https://fb.com/aritra.iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developer.aritra" height="30" width="40" /></a>
-<a href="https://instagram.com/aritra.iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritra.ics" height="30" width="40" /></a>
-<a href="https://twitter.com/aritraiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritraics" height="30" width="40" /></a>
-<a href="https://dev.to/aritra-iss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aritra-iss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aritracyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developeraritra" height="30" width="40" /></a>
+<a href="https://fb.com/aritra.cyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="developer.aritra" height="30" width="40" /></a>
+<a href="https://instagram.com/aritra.cyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritra.ics" height="30" width="40" /></a>
+<a href="https://twitter.com/aritracyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aritraics" height="30" width="40" /></a>
+<a href="https://dev.to/aritra-cyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aritra-iss" height="30" width="40" /></a>
 
 
 <br/>  
@@ -126,7 +126,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/aritraiss"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aritraiss" /></a></p><br><br>
+<p><a href="https://ko-fi.com/aritracyberpro"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aritraiss" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra-iss&show_icons=true&locale=en&layout=compact" alt="aritra-iss" /></p>
 
