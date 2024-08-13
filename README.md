@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1724284800&v=beta&t=vx5Om-en-K_SOounH-SD1Y9BL0CvCMTvbkDs-4IENog)](https://rishavchanda.io)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aritra+Mondal!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+Am+Aritra+Mondal!;A+Fullstack+Developer!;A+Cyber+Professional!;A+Youtuber!;A+Gamer!;A+Software+Developer!;" />
 </h1>
 
 <h3 align="center">Cyber expert and YouTuber by profession and a programmer by passion</h3>
