@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1724284800&v=beta&t=vx5Om-en-K_SOounH-SD1Y9BL0CvCMTvbkDs-4IENog)](https://rishavchanda.io)
+![MasterHead](https://github.com/user-attachments/assets/359f99db-3742-439f-9c11-85613b711af3)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+Am+Aritra!;A+Fullstack+Developer!;A+Cyber+Professional!;A+Youtuber!;A+Gamer!;A+Software+Developer!;" />
 </h1>
@@ -8,8 +8,7 @@
 <h3 align="center">Fullstack Developer | Red Teaming Expert | Penetration Tester | DevOps Specialist | SecOps Specialist | GDSC Fullstack Lead 24'</h3>
 <h1 align="center">
     <hr height=200></hr>
-</h1>
-
+</h1> 
 
 
 
