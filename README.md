@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/359f99db-3742-439f-9c11-85613b711af3)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+Am+Aritra!;A+Fullstack+Developer!;A+Cyber+Professional!;A+Youtuber!;A+Gamer!;A+Software+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Aritra!;A+Fullstack+Developer!;A+Cyber+Professional!;A+Youtuber!;A+Gamer!;A+Software+Developer!;" />
 </h1>
 
 <h3 align="center">Cyber expert and YouTuber by profession and a programmer by passion</h3>
