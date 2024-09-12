@@ -3,16 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Aritra!;A+Fullstack+Developer!;A+Cyber+Professional!;A+Youtuber!;A+Gamer!;A+Software+Developer!;" />
 </h1>
 
-<h3 align="center">Cyber expert and YouTuber by profession and a programmer by passion</h3>
+<h3 align="center">Gamer & Youtuber by profession and a Coder by passion</h3>
 
-<h3 align="center">Fullstack Developer | Red Teaming Expert | Penetration Tester | DevOps Specialist | SecOps Specialist | GDSC Fullstack Lead 25'</h3>
+<h3 align="center">Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 25'</h3>
 <h1 align="center">
     
 </h1> 
 
 
 
-- 🧑‍🎓Studied H.S.(Higher Secondary) at [ BIGMHS](https://barasatigmhs.org/)
+- 🧑‍🎓Studied H.S.(Higher Secondary) at [BIGMHS](https://barasatigmhs.org/)
 
 - 🌱 I’m currently learning **Cyber Forensics**
 
