@@ -5,7 +5,7 @@
 
 <h3 align="center">Gamer & Youtuber by profession and a Coder by passion</h3>
 
-<h3 align="center">Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 25'</h3>
+<h3 align="center">Gamer | Fullstack Developer | Red Teaming Expert | GDSC Fullstack Lead 25'</h3>
 <h1 align="center">
     
 </h1> 
