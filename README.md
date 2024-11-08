@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;A+Gamer!;A+Youtuber!;A+Cyber+Professional!;An+E-Sports+Athelete!;" />
 </h1>
 
-<h3 align="center">Gamer & Youtuber by profession and a Coder by passion</h3>
-
-<h3 align="center">Gamer | Fullstack Developer | Red Teaming Expert | GDSC Fullstack Lead 25'</h3>
+<h3 align="center">Gamer | Streamer | YouTuber | E-Sports Athlete | GDSC Fullstack Lead 25'</h3>
 <h1 align="center">
     
 </h1> 
