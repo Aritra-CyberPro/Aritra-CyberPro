@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
-- 🌐 All of my latest projects are availabe [here](https://innovatechsolution.in)
+- 🌐 For some info abt myself [CLICK HERE!](https://aritracyberpro.carrd.co/)
 
 - 💬 Ask me about **web development, pen testing,etc.** and I will try to answer it.
 
@@ -31,6 +31,7 @@
 <a href="https://linkedin.com/in/aritracyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritracyberpro" height="30" width="40" /></a>
 <a href="https://fb.com/aritra.cyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritra.cyberpro" height="30" width="40" /></a>
 <a href="https://instagram.com/aritra_cyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritra.cyberpro" height="30" width="40" /></a>
+<a href="https://aritracyberpro.carrd.co/" target="blank"><img align="center" src="https://carrd.co/assets/docs/images/brand/png/icon-color.png" alt="aritra.cyberpro" height="30" width="40" /></a>
 
 
 <br/>  
