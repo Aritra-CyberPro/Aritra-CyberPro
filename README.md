@@ -32,6 +32,7 @@
 <a href="https://fb.com/aritra.cyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aritra.cyberpro" height="30" width="40" /></a>
 <a href="https://instagram.com/aritra_cyberpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aritra.cyberpro" height="30" width="40" /></a>
 <a href="https://aritracyberpro.carrd.co/" target="blank"><img align="center" src="https://carrd.co/assets/docs/images/brand/png/icon-color.png" alt="aritra.cyberpro" height="30" width="40" /></a>
+<a href="https://www.rooter.gg/profile/2085726477?fromMenu=true" target="blank"><img align="center" src="https://media.istockphoto.com/id/1306922705/vector/live-stream-banner.jpg?s=612x612&w=0&k=20&c=NDDXT2Ftq-C-VyytMsHWgHCrcJ2d0I_pHEFz1hsw2wQ=" alt="aritra.cyberpro" height="30" width="40" /></a>
 
 
 <br/>  
