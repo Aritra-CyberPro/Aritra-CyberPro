@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/359f99db-3742-439f-9c11-85613b711af3)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;A+Gamer!;A+Youtuber!;A+Cyber+Professional!;An+E-Sports+Athelete!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I+Am;A+Gamer!;A+Youtuber!;A+Streamer;A+Cyber+Professional!;An+E-Sports+Athelete!;" />
 </h1>
 
 <h3 align="center">Gamer | Streamer | YouTuber | E-Sports Athlete | GDSC Fullstack Lead 25'</h3>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Cyber Forensics**
 
-- 🧑‍💻 Working as **Freelance Developer**
+- 🧑‍💻 Working as **Freelance Developer & Cyber Professional**
 
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
