@@ -12,7 +12,7 @@
 
 - 🧑‍🎓Studied H.S.(Higher Secondary) at [BIGMHS](https://barasatigmhs.org/)
 
-- 🌱 I’m currently learning **Cyber Forensics**
+- 🌱 I’m currently learning **Adv. Cyber Security**
 
 - 🧑‍💻 Working as **Freelance Developer & Cyber Professional**
 
