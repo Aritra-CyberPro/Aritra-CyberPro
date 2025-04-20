@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I+Am;A+Gamer!;A+Youtuber!;A+Streamer;A+Cyber+Professional!;An+E-Sports+Athelete!;" />
 </h1>
 
-<h3 align="center">Gaming Content Creator | Professional eSports Athlete & Live Streamer | Cybersecurity Specialist | Software & Web Developer | GDSC Fullstack Lead 25'</h3>
+<h3 align="center">Gaming Content Creator | Professional eSports Athlete & Live Streamer | Cybersecurity Specialist | Software & Web Developer</h3>
 <h1 align="center">
     
 </h1> 
