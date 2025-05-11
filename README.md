@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Adv. Cyber Security**
 
-- 🧑‍💻 Working as **Freelance Developer & Cyber Professional**
+- 🧑‍💻 Working as **ESPORTS ATHLETE & Cyber Professional**
 
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
