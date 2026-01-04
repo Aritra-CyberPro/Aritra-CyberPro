@@ -123,6 +123,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://donates.in/cybermann"> <img align="left" src="https://images.squarespace-cdn.com/content/v1/5978616fcd0f68d2902c065c/1503498857366-87QF5PIKUPD2WWSM5GCF/WSC-BANNERS-donate-23.png?format=2500w" height="50" width="210" alt="aritraiss" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra-cyberpro&show_icons=true&locale=en&layout=compact" alt="aritra-iss" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritra-cyberpro&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra-cyberpro&show_icons=true&locale=en" alt="aritra-iss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritra-cyberpro&show_icons=true&locale=en" alt="" /></p>
