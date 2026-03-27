@@ -1,9 +1,9 @@
 ![MasterHead](https://github.com/user-attachments/assets/359f99db-3742-439f-9c11-85613b711af3)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I+Am;A+Gamer!;A+Youtuber!;A+Cyber+Professional!;An+ESports+Athelete!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I+Am;A+Gamer!;A+Youtuber!;A+Cybersecurity+Learner!" />
 </h1>
 
-<h3 align="center">Gaming Content Creator | Professional eSports Athlete & Live Streamer | Cybersecurity Specialist | Software & Web Developer</h3>
+<h3 align="center">Gaming Content Creator | Cybersecurity Learner | Software & Web Developer</h3>
 <h1 align="center">
     
 </h1> 
@@ -12,9 +12,7 @@
 
 - 🧑‍🎓Studied H.S.(Higher Secondary) at [BIGMHS](https://barasatigmhs.org/)
 
-- 🌱 I’m currently learning **Adv. Cyber Security**
-
-- 🧑‍💻 Working as **ESPORTS ATHLETE & Cyber Professional**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
