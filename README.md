@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I+Am;A+Gamer!;A+Youtuber!;A+Cybersecurity+Learner!" />
 </h1>
 
-<h3 align="center">Gaming Content Creator | Cybersecurity Learner | Software & Web Developer</h3>
+<h3 align="center">Gaming Content Creator | Cybersecurity Beginner | Software & Web Developer</h3>
 <h1 align="center">
     
 </h1> 
